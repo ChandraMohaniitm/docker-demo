@@ -1,2 +1,2 @@
 FROM alpine
-CMD ["echo", "Hello from IITM Docker Task"]
+CMD ["echo", "Hello IITM Docker Task"]
